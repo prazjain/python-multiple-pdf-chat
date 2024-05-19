@@ -12,4 +12,6 @@ You can also run this project by running it on your machine
 
 Navigate to this free hosted page, and try the application with your api keys  
 
+https://multiple-pdf-chat-prash.streamlit.app/  
+
 Enjoy
